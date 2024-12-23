@@ -13,6 +13,7 @@
 projet/
 ├── Dossier_a_editer\  (pas obligé d'être dans le dossier projet)
 ├── rename.py
+├── Readme.md
 └── requirements.txt
 </pre>
 
@@ -52,7 +53,7 @@ pip --version
 
 ### 4. Telecharger le projet
 
-1. `https://github.com/Arviscube/renameSoundFile`
+1. [https://github.com/Arviscube/renameSoundFile](https://github.com/Arviscube/renameSoundFile)
 
 2. `code`
 
