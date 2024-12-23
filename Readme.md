@@ -61,7 +61,7 @@ pip --version
 
 ### 5. Installer les libs
 
-Toujours dans CMD dans le dossier Projet
+Ouvrir CMD dans le dossier du projet à l'emplacement de requirements.txt puis tapez
 
 ```bash
 pip install -r requirements.txt
